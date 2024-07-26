@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iqzy21 
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning how to program with boot.dev i will be uploading my notes or any projects i will do here 
+- 🌱 I’m currently learning how to program with boot.dev i will be uploading any projects i will do here 
